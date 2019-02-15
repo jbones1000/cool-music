@@ -47,3 +47,5 @@ DISCO MANTRA
 ------------
 
 Komet-Rausch
+
+Frank Bretschneider
